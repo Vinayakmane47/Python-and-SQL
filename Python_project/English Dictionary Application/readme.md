@@ -1,12 +1,25 @@
 English Dictionary Application 
 
 
-Start the Application : 
-![image](https://user-images.githubusercontent.com/103372852/181208116-a0f48aa5-c0af-49fd-ba5c-e6ffbf7e7cda.png)
+Following are the some functions present in Codining
 
+Add New word - We can add new words in the dictionary which save in the text formatted file with the help of Json
+
+Update Existing Word - We can Update Existing Word 
+
+Meaning of Word - If We have already stored data in the dictionary we can find meaning of the word
+
+
+
+Start the Application :
+
+
+![image](https://user-images.githubusercontent.com/103372852/181210832-7eba457a-7db6-4149-b3ec-5adbdac3b34b.png)
 
 
 Add New Word : 
+
+
 
 ![image](https://user-images.githubusercontent.com/103372852/181208573-07ac2a17-ac3d-4d9c-b073-dfe0dc2e9ab2.png)
 ![image](https://user-images.githubusercontent.com/103372852/181208639-763735e1-d19f-4d27-a838-7d634083c09a.png)
