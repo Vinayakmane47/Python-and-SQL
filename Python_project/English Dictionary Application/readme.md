@@ -1,13 +1,13 @@
-English Dictionary Application 
+## English Dictionary Application 
 
 
 Following are the some functions present in Codining
 
-Add New word - We can add new words in the dictionary which save in the text formatted file with the help of Json
+#### Add New word - We can add new words in the dictionary which save in the text formatted file with the help of Json
 
-Update Existing Word - We can Update Existing Word 
+#### Update Existing Word - We can Update Existing Word 
 
-Meaning of Word - If We have already stored data in the dictionary we can find meaning of the word
+#### Meaning of Word - If We have already stored data in the dictionary we can find meaning of the word
 
 
 
